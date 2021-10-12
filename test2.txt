@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CEC7-51ED
+
+ Directory of C:\Users\Personal\Desktop\GitProject
+
+10/12/2021  10:58 AM    <DIR>          .
+10/12/2021  10:58 AM    <DIR>          ..
+10/11/2021  04:06 PM                22 index.html
+10/11/2021  04:06 PM                12 test1.txt
+10/12/2021  10:58 AM                 0 test2.txt
+               3 File(s)             34 bytes
+               2 Dir(s)  204,756,979,712 bytes free
